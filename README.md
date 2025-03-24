@@ -1,4 +1,4 @@
-**A responsive personal portfolio website showcasing Luke Gordos' skills, projects, and contact information. The website features a clean, modern design with smooth animations and a professional layout that effectively presents Luke's background as a Computer Science student and aspiring software engineer.
+A responsive personal portfolio website showcasing Luke Gordos' skills, projects, and contact information. The website features a clean, modern design with smooth animations and a professional layout that effectively presents Luke's background as a Computer Science student and aspiring software engineer.
 Technologies Used
 HTML - content
 CSS - design
@@ -12,4 +12,4 @@ Add JavaScript functionality for interactive elements
 Some links are not responsive so fixing those
 Including more images for the design and project section
 Adding special features like filtering and dark mode light mode accessibility
-**
+
